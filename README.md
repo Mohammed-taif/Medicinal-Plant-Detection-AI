@@ -56,11 +56,11 @@ Input image size: 224 × 224
 
 ## Application Screenshots
 
-### Streamlit App
-![App](screenshots/Screenshot%202026-03-10%20at%2011.15.05%20PM.png)
+### Streamlit Interface
+![Streamlit App](screenshots/app_interface.png)
 
 ### Prediction Result
-![Prediction](screenshots/Screenshot%202026-03-10%20at%2011.15.51%20PM.png)
+![Prediction Output](screenshots/prediction_result.png)
 
 ## Future Improvements
 
