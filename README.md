@@ -62,5 +62,5 @@ Input image size: 224 × 224
 
 ## Author
 
-Mohammad Taif  
+Mohammed Taif  
 BCA Student (AI, Cloud Computing, DevOps with IBM)
